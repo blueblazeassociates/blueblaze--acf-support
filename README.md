@@ -1,4 +1,4 @@
-Blue Blaze Support for Advanced Custom Fields
+Blue Blaze ACF Support
 ============================
 
-Contributes helper functions for working with Advanced Custom Fields
+Provides some extra functions for working with Advanced Custom Fields easier.
