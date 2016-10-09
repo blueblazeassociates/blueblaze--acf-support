@@ -1,12 +1,24 @@
 <?php
+/**
+ * Blue Blaze Favicons
+ *
+ * @author  Blue Blaze Associates
+ * @license GPL-2.0+
+ * @link    https://github.com/blueblazeassociates/blueblaze--acf-support
+ */
+
 /*
-Plugin Name: Blue Blaze ACF Support
-Plugin URI:  https://github.com/blueblazeassociates/blueblaze--acf-support
-Description: Provides some extra functions for working with Advanced Custom Fields easier.
-Version:     0.1.0
-Author:      Blue Blaze Associates
-Author URI:  http://www.blueblazeassociates.com
-License:     GPL v2 or later
+ * Plugin Name:       Blue Blaze ACF Support
+ * Plugin URI:        https://github.com/blueblazeassociates/blueblaze--acf-support
+ * Description:       Provides some extra functions for working with Advanced Custom Fields easier.
+ * Version:           1.0.0
+ * Author:            Blue Blaze Associates
+ * Author URI:        http://www.blueblazeassociates.com
+ * License:           GPL v2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: https://github.com/blueblazeassociates/blueblaze--favicons
+ * Requires WP:       4.5
+ * Requires PHP:      5.6
 */
 
 if ( ! function_exists( 'acf_support__get_simple_field' ) ) {
